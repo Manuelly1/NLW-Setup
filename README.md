@@ -18,7 +18,7 @@ O projeto foi desenvolvido durante a NLW Setup promovida pela Rocketseat
 <br>
 
 <p align="center">
-  <img alt="preview" src=".github/preview-setup.jpg" width="100%">
+  <img alt="preview" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
